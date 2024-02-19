@@ -1,0 +1,15 @@
+/Users/andrewchen/Projects/Day_6/Day_6/bin/Debug/net7.0/Day_6
+/Users/andrewchen/Projects/Day_6/Day_6/bin/Debug/net7.0/Day_6.deps.json
+/Users/andrewchen/Projects/Day_6/Day_6/bin/Debug/net7.0/Day_6.runtimeconfig.json
+/Users/andrewchen/Projects/Day_6/Day_6/bin/Debug/net7.0/Day_6.dll
+/Users/andrewchen/Projects/Day_6/Day_6/bin/Debug/net7.0/Day_6.pdb
+/Users/andrewchen/Projects/Day_6/Day_6/obj/Debug/net7.0/Day_6.csproj.AssemblyReference.cache
+/Users/andrewchen/Projects/Day_6/Day_6/obj/Debug/net7.0/Day_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewchen/Projects/Day_6/Day_6/obj/Debug/net7.0/Day_6.AssemblyInfoInputs.cache
+/Users/andrewchen/Projects/Day_6/Day_6/obj/Debug/net7.0/Day_6.AssemblyInfo.cs
+/Users/andrewchen/Projects/Day_6/Day_6/obj/Debug/net7.0/Day_6.csproj.CoreCompileInputs.cache
+/Users/andrewchen/Projects/Day_6/Day_6/obj/Debug/net7.0/Day_6.dll
+/Users/andrewchen/Projects/Day_6/Day_6/obj/Debug/net7.0/refint/Day_6.dll
+/Users/andrewchen/Projects/Day_6/Day_6/obj/Debug/net7.0/Day_6.pdb
+/Users/andrewchen/Projects/Day_6/Day_6/obj/Debug/net7.0/Day_6.genruntimeconfig.cache
+/Users/andrewchen/Projects/Day_6/Day_6/obj/Debug/net7.0/ref/Day_6.dll

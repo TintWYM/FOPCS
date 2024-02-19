@@ -1,0 +1,15 @@
+/Users/andrewchen/Projects/Exercise_A/Exercise_A/bin/Debug/net7.0/Exercise_A
+/Users/andrewchen/Projects/Exercise_A/Exercise_A/bin/Debug/net7.0/Exercise_A.deps.json
+/Users/andrewchen/Projects/Exercise_A/Exercise_A/bin/Debug/net7.0/Exercise_A.runtimeconfig.json
+/Users/andrewchen/Projects/Exercise_A/Exercise_A/bin/Debug/net7.0/Exercise_A.dll
+/Users/andrewchen/Projects/Exercise_A/Exercise_A/bin/Debug/net7.0/Exercise_A.pdb
+/Users/andrewchen/Projects/Exercise_A/Exercise_A/obj/Debug/net7.0/Exercise_A.csproj.AssemblyReference.cache
+/Users/andrewchen/Projects/Exercise_A/Exercise_A/obj/Debug/net7.0/Exercise_A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewchen/Projects/Exercise_A/Exercise_A/obj/Debug/net7.0/Exercise_A.AssemblyInfoInputs.cache
+/Users/andrewchen/Projects/Exercise_A/Exercise_A/obj/Debug/net7.0/Exercise_A.AssemblyInfo.cs
+/Users/andrewchen/Projects/Exercise_A/Exercise_A/obj/Debug/net7.0/Exercise_A.csproj.CoreCompileInputs.cache
+/Users/andrewchen/Projects/Exercise_A/Exercise_A/obj/Debug/net7.0/Exercise_A.dll
+/Users/andrewchen/Projects/Exercise_A/Exercise_A/obj/Debug/net7.0/refint/Exercise_A.dll
+/Users/andrewchen/Projects/Exercise_A/Exercise_A/obj/Debug/net7.0/Exercise_A.pdb
+/Users/andrewchen/Projects/Exercise_A/Exercise_A/obj/Debug/net7.0/Exercise_A.genruntimeconfig.cache
+/Users/andrewchen/Projects/Exercise_A/Exercise_A/obj/Debug/net7.0/ref/Exercise_A.dll
